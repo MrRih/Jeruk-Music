@@ -1,12 +1,12 @@
 <h3> Halo Gaes, Apa Kabar? 🐥 </h3>
 <p align="center"><img src="https://tenor.com/view/happy-anime-cute-girl-gif-14066818.gif" style="width:500%"></p>
 
-# Deadly-Music
+# Jeruk-Music
 <p align="center">
   <img src="https://telegra.ph/file/ac5fdbe55380b2eadec66.png">
 </p>
 <h1 align="center">
-  <b>🎶 Deadly Music </b>
+  <b>🎶 Jeruk Music </b>
 </h1>
 
 ![Repo 👁‍🗨](https://komarev.com/ghpvc/?username=kenkannih&color=red&style=flat-square&label=DILIHAT+👁‍🗨)
