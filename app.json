@@ -1,9 +1,9 @@
 {
-  "name": "Music Ken",
-  "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by MUSIK KU.",
-  "logo": "https://telegra.ph/file/b0abf1b9bec33146e4288.jpg",
+  "name": "Jeruk Music",
+  "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by MusikZamm. ",
+  "logo": "https://telegra.ph/file/646674b833d974fc4d7b8.jpg",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/kenkansaja/Music-Ken",
+  "repository": "https://github.com/MrRih/Jeruk-Music",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
