@@ -37,7 +37,7 @@
 
 <b>GROUP VIRTUAL [@samalete](https://t.me/samalete)</b>
 
-<b>TEMUKAN DI TELEGRAM [@DeadlyMusicBot](https://t.me/JerukMusicBot)</b>
+<b>TEMUKAN DI TELEGRAM [@JerukMusicBot](https://t.me/JerukMusicBot)</b>
 
 ### 💜 HEROKU
 
