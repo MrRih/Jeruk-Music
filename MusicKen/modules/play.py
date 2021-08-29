@@ -431,7 +431,7 @@ async def play(_, message: Message):
                             ],   
                             [InlineKeyboardButton("💌 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{updateschannel}")],
                             [InlineKeyboardButton(text="🗑 ᴛᴜᴛᴜᴘ", callback_data="cls"),
-                             InlineKeyboardButton("✨OWNER✨", url=f"https://t.me/tehmanisamgettt")],
+                             InlineKeyboardButton("✨OWNER✨", url=f"https://t.me/tehmanisangettt")],
                         ]
                     )
         file_name = get_file_name(audio)
@@ -480,7 +480,7 @@ async def play(_, message: Message):
                             ],   
                             [InlineKeyboardButton("💌 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{updateschannel}")],
                             [InlineKeyboardButton(text="🗑 ᴛᴜᴛᴜᴘ", callback_data="cls"),
-                             InlineKeyboardButton("✨OWNER✨", url=f"https://t.me/tehmanisamgettt")],
+                             InlineKeyboardButton("✨OWNER✨", url=f"https://t.me/tehmanisangettt")],
                         ]
                     )
         requested_by = message.from_user.first_name
@@ -522,7 +522,7 @@ async def play(_, message: Message):
                             ],   
                             [InlineKeyboardButton("💌 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{updateschannel}")],
                             [InlineKeyboardButton(text="🗑 ᴛᴜᴛᴜᴘ", callback_data="cls"),
-                             InlineKeyboardButton("✨OWNER✨", url=f"https://t.me/tehmanisamgettt")],
+                             InlineKeyboardButton("✨OWNER✨", url=f"https://t.me/tehmanisangettt")],
                         ]
                     )
         requested_by = message.from_user.first_name
@@ -585,7 +585,7 @@ async def stream(_, message: Message):
                             ],   
                             [InlineKeyboardButton("💌 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{updateschannel}")],
                             [InlineKeyboardButton(text="🗑 ᴛᴜᴛᴜᴘ", callback_data="cls"),
-                             InlineKeyboardButton("✨OWNER✨", url=f"https://t.me/tehmanisamgettt")],
+                             InlineKeyboardButton("✨OWNER✨", url=f"https://t.me/tehmanisangettt")],
                         ]
                     )
 
