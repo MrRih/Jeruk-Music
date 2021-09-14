@@ -466,7 +466,7 @@ async def play(_, message: Message):
 
         except Exception as e:
             await lel.edit(
-                "**Lagu tidak ditemukan.** Coba cari dengan judul lagu yang lebih jelas, Ketik `/help` bila butuh bantuan"
+                "**Ga Ketemu Njingg Ahh.** Yang Bener Tod Ngetik Judul Lagunya , Ketik `/help` Kalo Ga ngerti, Jan Sok Ngerti Tod!!!"
             )
             print(str(e))
             return
@@ -508,7 +508,7 @@ async def play(_, message: Message):
 
         except Exception as e:
             await lel.edit(
-                "**Lagu tidak ditemukan.** Coba cari dengan judul lagu yang lebih jelas, Ketik `/help` bila butuh bantuan"
+                "**Ga Ketemu Njingg Ahh.** Yang Bener Tod Ngetik Judul Lagunya , Ketik `/help` Kalo Ga ngerti, Jan Sok Ngerti Tod!!!"
             )
             print(str(e))
             return
