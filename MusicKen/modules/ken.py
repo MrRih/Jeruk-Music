@@ -8,7 +8,7 @@ from MusicKen.services.callsmusic.callsmusic import client as USER
 async def songs(client, message):
     try:
         if len(message.command) < 2:
-            await message.reply_text("❌ **Lagu Tidak ditemukan.**\n\n**Coba Masukan Judul lagu yang lebih jelas.**")
+            await message.reply_text("❌ **Lagu Ga Ketemu.**\n\n**Coba Ketik Judul Yang Bener Tod.**")
             return
         text = message.text.split(None, 1)[1]
         results = await USER.get_inline_bot_results(119606003, f"{text}")
@@ -16,4 +16,4 @@ async def songs(client, message):
             message.chat.id, results.query_id, results.results[0].id
         )
     except Exception:
-        await message.reply_text("❌ **Lagu Tidak ditemukan.**")
+        await message.reply_text("❌ **Lagu Ga Ketemu.**")
